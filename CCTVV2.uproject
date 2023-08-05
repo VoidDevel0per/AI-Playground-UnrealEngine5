@@ -64,7 +64,7 @@
 		},
 		{
 			"Name": "Sentry_Camera_Gameplay",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "PerceptionExtension",
@@ -73,7 +73,7 @@
 		},
 		{
 			"Name": "PluginBuilder",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8480a6b969b047aca3ab8957509730dd"
 		},
 		{
