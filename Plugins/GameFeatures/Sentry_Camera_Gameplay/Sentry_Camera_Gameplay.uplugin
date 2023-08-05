@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Sentry_Camera_Gameplay",
+	"Description": "Creates easily modfilable Security cameras to alert AI.",
+	"Category": "Game Features",
+	"CreatedBy": "Void",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"ExplicitlyLoaded": true
+}

@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "5.20",
+	"FriendlyName": "SentryCameraV2",
+	"Description": "In Order to use these assets, First Move the files inside of the Plugin's content folder to your game's main content folder ENJOY!",
+	"Category": "Game Features",
+	"CreatedBy": "Void",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Active"
+}
