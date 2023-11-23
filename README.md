@@ -15,6 +15,6 @@ Yeah.. That's it lol, This project is supposed to be light on plugins and market
 3.Try not to add anything to.. Overpowered, what I mean by this is entities that can destroy any other entity easily just by looking at them or something. as long as it's not something like SCP-001 When Day breaks. or The Scarlet King, you'll be fine
 4.When adding an entity, let's say SCP-173 and someone else makes an Entity called SCP-173 and they function idenetically. **The one with more legible, optimized and easier to add onto**, will be chosen to get added to the main branch.
 5.When adding or changing a entity. let's take for instance. The Warden, please be sure to document your changes in a clear, Specific and organized fashion. If you say something like "Updated Warden's aggro behavior" your changes will be rejected.
-6.Lastly when moving stuff's location please say where you moved it.
+6.Lastly when moving asset locations please say where you moved it.
 
 **That's It, Hopefully you all enjoy this project as much as I do, Cheers!**
